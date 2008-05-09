@@ -5,8 +5,8 @@
 
 Summary:	Bandwidth throttling and balancing by client IP address
 Name:		apache-%{mod_name}
-Version:	0.2.0
-Release:	%mkrel 4
+Version:	0.2.1
+Release:	%mkrel 1
 Group:		System/Servers
 License:	Artistic
 URL:		http://www.topology.org/src/bwshare/README.html
