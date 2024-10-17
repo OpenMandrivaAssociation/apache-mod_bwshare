@@ -9,7 +9,7 @@ Version:	0.2.1
 Release:	%mkrel 9
 Group:		System/Servers
 License:	Artistic
-URL:		http://www.topology.org/src/bwshare/README.html
+URL:		https://www.topology.org/src/bwshare/README.html
 Source0:	http://www.topology.org/src/bwshare/%{mod_name}-%{version}.zip
 Source1:	http://www.topology.org/src/bwshare/%{mod_name}-%{version}.zip.asc
 Source2:	%{mod_conf}
